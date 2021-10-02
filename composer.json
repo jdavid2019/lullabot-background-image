@@ -1,0 +1,14 @@
+{
+    "name": "joseph_david/lullabot-background-web",
+    "description": "Generate background dynamic images to Lullabot contributors.",
+    "type": "project",
+    "require": {
+        "claviska/simpleimage": "^3.6"
+    },
+    "authors": [
+        {
+            "name": "jdavid2019",
+            "email": "joseph2019d@gmail.com"
+        }
+    ]
+}
